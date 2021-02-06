@@ -21,6 +21,23 @@ AutoML
    :members:
 
 
+Tune
+------
+
+.. autofunction:: flaml.tune.run
+
+.. autofunction:: flaml.tune.report
+
+.. autoclass:: flaml.BlendSearch
+   :members:
+
+.. autoclass:: flaml.CFO
+   :members:
+
+.. autoclass:: flaml.FLOW2
+   :members:
+
+
 .. Indices and tables
 .. ==================
 
